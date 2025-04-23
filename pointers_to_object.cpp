@@ -7,6 +7,7 @@
 //    int a,b;
 //public:
 //    samp(int n,int m){
+//        cout<<1<<endl;
 //        a=n;
 //        b=m;
 //    }
