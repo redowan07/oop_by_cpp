@@ -10,6 +10,10 @@
 //        i=a;
 //        j=b;
 //    }
+//    ~samp(){
+//        cout<<"destroying...\n";
+//    }
+//
 //    int get_product(){
 //        return i*j;
 //    }
@@ -25,9 +29,10 @@
 //        return 1;
 //    }
 //    cout<<"product is "<<p->get_product()<<"\n";
-//    delete p;
+//    //delete p;
 //    return 0;
 //
 //}
 //
 //
+

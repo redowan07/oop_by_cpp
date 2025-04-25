@@ -13,6 +13,10 @@
 //    int get_product(){
 //        return i*j;
 //    }
+//~samp(){
+//    cout<<"destroying...\n";
+//}
+//
 //};
 //
 //int main(){
@@ -33,7 +37,7 @@
 //        cout<<p[i].get_product()<<"\n";
 //    }
 //    
-//    delete [] p;
-//    return 0;
+//    //delete [] p;
+//    //return 0;
 //    
 //}
